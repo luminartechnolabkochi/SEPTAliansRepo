@@ -9,3 +9,11 @@ onlinestudents list
 2.sajitha
 3.zuvariya
 4.hemanth
+
+
+offlinestudents list
+1.vysakh km
+2.gokul murukan
+3.ardhra cd
+3.varsha
+4.akhila
