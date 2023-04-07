@@ -7,8 +7,9 @@ totalStudents:40
 onlinestudents list
 1.bindhu
 2.sajitha
-3.zuvariya
+3.zuvairiya
 4.hemanth
+5.laly
 
 
 offlinestudents list
