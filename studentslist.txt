@@ -1,4 +1,4 @@
-company:LuminarTechnolab
+ company:LuminarTechnolab
 course:django fullstack
 mentor:shifna,lija
 totalStudents:40
